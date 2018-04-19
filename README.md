@@ -9,7 +9,7 @@ Like being at a family reunion with those you haven't seen in a while. ***And***
 
 
  * Rucker Park
-* New York
+* New York and France
  * Venice Beach
 * Cali
  * The Cage
