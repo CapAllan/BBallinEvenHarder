@@ -3,11 +3,17 @@ body {
 }
 .Blife {
   font-size: 200%;
-font-family: helvetica;
-color: #8b0000;
+  font-family: helvetica;
+  color: #8b0000;
 }
 
 .Parks{
   font-family: helvetica;
   color: #8b0000;
+}
+.Cities{
+  font-family: helvetica;
+  color: #f5fffa
+  margin-left: 50px
+
 }
