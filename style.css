@@ -2,7 +2,7 @@ body {
   background-color: #fffacd;
 }
 .Blife {
-  font-size: 200px;
+  font-size: 150px;
   font-family: helvetica;
   color: #8b0000;
 }
@@ -10,11 +10,11 @@ body {
 .Parks {
   font-family: helvetica;
   color: #8b0000;
-  font-size: 300px
+  font-size: 50px
 }
 .Cities {
   font-family: helvetica;
   color: #f5fffa
-  
+
 
 }
