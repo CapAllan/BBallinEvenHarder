@@ -1,6 +1,3 @@
-
-Because Ballin is Life
-Ball
 # Ballin is Life
 ## For Some of us it's like oxygen
 
@@ -16,18 +13,9 @@ Like being at a family reunion with those you haven't seen in a while. ***And***
 * Money Makin' Manhattan
 
 
-- Item
-
-1. Item
-  1. Sub-item
-  2. Sub-item
-
-3. item
 
 [Ballin Site](http://www.currentinculture.com)
 ![local photo](assets/mike.jpg)
 
 # BBall With Coffy!
 ![alt text](https://upload.wikimedia.org/wikipedia/en/c/c9/Coffy.jpg)
-# BBallin
-# BBallinHard
