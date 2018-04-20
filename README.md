@@ -28,6 +28,6 @@ Like being at a family reunion with those you haven't seen in a while. ***And***
 ![local photo](assets/mike.jpg)
 
 # BBall With Coffy!
-![alt text](https://wallpapersin4k.net/wp-content/uploads/2017/02/Coffy-Movie-Wallpapers-5.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/en/c/c9/Coffy.jpg)
 # BBallin
 # BBallinHard
